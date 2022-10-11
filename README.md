@@ -1,4 +1,7 @@
-# Aplicativo Despesas Pessoais!
+![flutter-banner](https://user-images.githubusercontent.com/79226722/195160412-1bc67156-37ff-4fbd-aedc-113b6fdfd2f7.png)
+
+
+# Aplicativo Despesas Pessoais
 
 Este projeto foi criado com o fundamento de praticar as habilidades em Flutter.
 
@@ -14,9 +17,9 @@ Fontes utilizadas:
 ## Primeiros passos:
 
 Para você configurar a sua maquina para programar em Flutter, siga este tutorial https://www.devmedia.com.br/hello-world-com-flutter/40321.
-CMD: flutter create expenses
-CMD: cd expenses
-CMD: code .
+- CMD: flutter create expenses
+- CMD: cd expenses
+- CMD: code .
 
 ## O que eu irei aprender neste aplicativo?
 
