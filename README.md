@@ -1,6 +1,3 @@
-<img![flutter-banner](https://user-images.githubusercontent.com/79226722/195160412-1bc67156-37ff-4fbd-aedc-113b6fdfd2f7.png) width="350 >
-
-
 # Aplicativo Despesas Pessoais
 
 Este projeto foi criado com o fundamento de praticar as habilidades em Flutter.
