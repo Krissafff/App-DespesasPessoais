@@ -1,16 +1,11 @@
 # expenses
 
-A new Flutter project.
+Aplicativo Despesas Pessoais 
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+Este projeto foi criado com o fundamento de praticar as habilidades em Flutter.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![parte 1](https://user-images.githubusercontent.com/79226722/195151051-67da6055-bc68-410e-85be-b8b14b4c65a2.png)
+![parte 2](https://user-images.githubusercontent.com/79226722/195151055-e721a447-8605-4855-b423-d471aaa56631.png)
+![parte 3](https://user-images.githubusercontent.com/79226722/195151054-2721a2e3-2dc1-4075-8e86-93a350115db4.png)
